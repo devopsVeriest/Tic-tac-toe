@@ -1,3 +1,4 @@
+#Pohodi broj
 import random
 
 from pip._vendor.distlib.compat import raw_input
